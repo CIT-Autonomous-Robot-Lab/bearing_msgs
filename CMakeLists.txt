@@ -12,7 +12,7 @@ find_package(rosidl_default_generators REQUIRED)
 
 # set message files
 set(msg_files
-  "msg/Geospatial_api.msg"
+  "msg/GeospatialApi.msg"
 )
 
 # generate messages
